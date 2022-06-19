@@ -1,8 +1,10 @@
 <template>
-  <Duck />
+<div>
+      <Ducks />
+</div>
 </template>
 <script setup lang="ts">
-import Duck from './components/duck.vue'
+import Ducks from './components/ducks.vue'
 </script>
 
 
